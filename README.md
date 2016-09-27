@@ -1,2 +1,2 @@
 # Mechatronics Log
-See "Wiki" tab for all logs.
+A creative compiliation of all of my adventures in mechatronics
