@@ -1,6 +1,9 @@
 This will be where I keep all of my logs for programming Mechatronics projects in the DPEA.
+
 #Table Of Contents
+
 ##September
+
 [September 6](https://github.com/woakley5/Mechatronics-Log/wiki/September-6,-2016)
 ~
 [September 8](https://github.com/woakley5/Mechatronics-Log/wiki/September-8,-2016)
@@ -32,9 +35,11 @@ This will be where I keep all of my logs for programming Mechatronics projects i
 [September 29](https://github.com/woakley5/Mechatronics-Log/wiki/September-29,-2016)
 
 ##October
+
 [All Month](https://github.com/woakley5/Mechatronics-Log/wiki/October-1--~-31,-2016)
 
 ##November
+
 [November 1](https://github.com/woakley5/Mechatronics-Log/wiki/November-1,-2016)
 ~
 [November 2](https://github.com/woakley5/Mechatronics-Log/wiki/November-2,-2016)
@@ -56,6 +61,7 @@ This will be where I keep all of my logs for programming Mechatronics projects i
 [November 29](https://github.com/woakley5/Mechatronics2017Log/wiki/November-29,-2016)
 
 ##December
+
 [December 2](https://github.com/woakley5/Mechatronics2017Log/wiki/December-2,-2016)
 ~
 [December 5](https://github.com/woakley5/Mechatronics2017Log/wiki/December-5,-2016)
@@ -73,6 +79,7 @@ This will be where I keep all of my logs for programming Mechatronics projects i
 [December 14](https://github.com/woakley5/Mechatronics2017Log/wiki/December-14,-2016)
 
 ##January
+
 [January 3](https://github.com/woakley5/Mechatronics2017Log/wiki/January-3,-2017)
 ~
 [January 4](https://github.com/woakley5/Mechatronics2017Log/wiki/January-4,-2017)
